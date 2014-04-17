@@ -1,0 +1,1 @@
+Class library for Node to be consumed by Edge npm package.
